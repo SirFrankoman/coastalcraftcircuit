@@ -224,3 +224,21 @@ nav a {
 .home-card h2 a:hover {
     color: hsl(175, 54%, 46%);
 }
+
+
+/* Footer */
+
+.site-footer {
+    background: hsl(0, 0%, 12%);
+    color: hsl(60, 6%, 45%);
+    text-align: center;
+    padding: 55px 20px;
+}
+
+.site-footer p {
+    margin: 0;
+    font-family: "EB Garamond", Georgia, serif;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0;
+}
