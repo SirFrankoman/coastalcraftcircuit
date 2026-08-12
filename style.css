@@ -298,6 +298,18 @@ nav a {
     line-height: 1.2;
 }
 
+.contact-header {
+    background-image:
+        linear-gradient(
+            rgba(0, 0, 0, 0.35),
+            rgba(0, 0, 0, 0.35)
+        ),
+        url("images/contact-waves.webp");
+
+    background-size: cover;
+    background-position: center;
+}
+
 /* Contact page */
 
 .contact-content {
